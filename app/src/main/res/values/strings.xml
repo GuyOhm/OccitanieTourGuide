@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">OccitanieTourGuide</string>
+
+    <!-- Category names -->
+    <string name="category_monument">History</string>
+    <string name="category_vineyard">Wine</string>
+    <string name="category_spa">Spa</string>
+    <string name="category_nature">Nature</string>
+
+    <!-- Sites information -->
+    <!-- Historical -->
+    <!-- Arena of Nimes -->
+    <string name="name_arena_nimes">Arena of Nîmes</string>
+    <string name="desc_arena_nimes">Is a Roman amphitheatre, situated in the
+        French city of Nîmes. Built around AD 70. </string>
+    <string name="geo_arena_nimes">geo:43.834904,4.3574259?z=15</string>
+
+    <!-- Capitol of toulouse -->
+    <string name="name_capitol">Capitol of Toulouse</string>
+    <string name="desc_capitol">Is supposedly on the spot that St Saturninus was
+        martyred. The bishop of Toulouse is said to have been tied to the legs of a bull </string>
+    <string name="geo_capitol">geo:43.6021024,1.435896?z=15</string>
+
+    <!-- City of carcassonne -->
+    <string name="name_carcassonne">City of Carcassonne</string>
+    <string name="desc_carcassonne">Founded during the Gallo-Roman period, the citadel
+        derives its reputation from its 1.9 mi long double surrounding walls interspersed by 52 towers. </string>
+    <string name="geo_carcassonne">geo:43.2060816,2.3620074?z=15</string>
+
+    <!-- Cathedral of Albi -->
+    <string name="name_albi">Cathedral of Albi</string>
+    <string name="desc_albi">First built as a fortress in the aftermath of the
+        Albigensian Crusade; begun in 1282 and under construction for 200 years.</string>
+    <string name="geo_albi">geo:43.9285191,2.1403706?z=15</string>
+
+    <!-- Castle of montsegur -->
+    <string name="name_montsegur">Castle of Montsegur</string>
+    <string name="desc_montsegur">Its ruins are the site of a razed stronghold of the Cathars.
+        The present fortress on the site, though described as one of the Cathar castles</string>
+    <string name="geo_montsegur">geo:42.8757582,1.8309944?z=15</string>
+
+    <!-- Notre Dame of Lourdes -->
+    <string name="name_lourdes">Notre Dame of Lourdes</string>
+    <string name="desc_lourdes">is French for \"Our Lady of Lourdes\", which refers to the Marian
+        apparition that is reported to have appeared before various individuals in separate occasions</string>
+    <string name="geo_lourdes">geo:43.097419,-0.0604808?z=15</string>
+
+    <!-- St Guilhem the Desert -->
+    <string name="name_st_guilhem">St Guilhem the Desert</string>
+    <string name="desc_st_guilhem">is a medieval village located on the Chemin de
+        St. James\'s Way pilgrim route to Santiago de Compostella.</string>
+    <string name="geo_st_guilhem">geo:43.7535437,3.4738269?z=15</string>
+
+    <!-- Wine -->
+    <!-- Domaine de cazes -->
+    <string name="name_cazes">Cazes</string>
+    <string name="desc_cazes">Wine-growers committed to produce organic wines for more
+    than 20 years.</string>
+    <string name="url_cazes">https:\/\/www.cazes-rivesaltes.com\/</string>
+
+    <!-- Clos des jarres -->
+    <string name="name_jarres">Clos des jarres</string>
+    <string name="desc_jarres">Small land of 12 hectares created in 2010 by Vivien Hemelsdael
+        produces organic wines.</string>
+    <string name="url_jarres">http:\/\/www.leclosdesjarres.fr\/</string>
+
+    <!-- Clos de l'an -->
+    <string name="name_anhel">Clos de l\'anhel</string>
+    <string name="desc_anhel">Sophie Guiraudon is growing wine since&#8230; zero generation but
+        she is doing it amazingly !</string>
+    <string name="url_anhel">http:\/\/www.anhel.fr\/</string>
+
+    <!-- Domaine py -->
+    <string name="name_py">Py</string>
+    <string name="desc_py">At the heart of the Cathars castles, between the Mediterranean sea and
+    Pyrennees, you will be welcomed by Jean-Pierre Py.</string>
+    <string name="url_py">https:\/\/www.domaine-py.com\/</string>
+
+    <!-- Domaine des jougla -->
+    <string name="name_jougla">Jougla</string>
+    <string name="desc_jougla">The vineyards of Jougla is a familial property where they grow wine
+        for generations.</string>
+    <string name="url_jougla">https:\/\/www.domainedesjougla.com\/</string>
+
+    <!-- chateau de l'Ou -->
+    <string name="name_ou">Castle of l\'Ou</string>
+    <string name="desc_ou">Séverine et Philippe Bourrier are growing organic wine with lots
+    of love and dedication.</string>
+    <string name="url_ou">https:\/\/www.chateau-de-lou.fr\/</string>
+
+    <!-- SPA -->
+    <!-- Sensoria -->
+    <string name="name_sensoria">Sensoria</string>
+    <string name="desc_sensoria">65170 ST LARY SOULAN</string>
+    <string name="url_sensoria">https:\/\/www.mercuresensoria.com/sensoria-rio\/</string>
+
+    <!-- Bains de Llo -->
+    <string name="name_llo">Bains de Llo</string>
+    <string name="desc_llo">Route des gorges du Sègre - 66800 LLO</string>
+    <string name="url_llo">https:\/\/www.bains-de-llo.com\/</string>
+
+    <!-- La Chaldette -->
+    <string name="name_chaldette">La Chaldette</string>
+    <string name="desc_chaldette">Station thermale la Chaldette - 48310 BRION</string>
+    <string name="url_chaldette">http:\/\/www.lachaldette.com\/</string>
+
+    <!-- Bains de Dores -->
+    <string name="name_dores">Bains de Dores</string>
+    <string name="desc_dores">66760 DORRES</string>
+    <string name="url_dores">https:\/\/www.dorres66.com/bains-romains\/</string>
+
+    <!-- Obalia -->
+    <string name="name_obalia">Obalia</string>
+    <string name="desc_obalia">Allée des Sources - 34540 BALARUC LES BAINS</string>
+    <string name="url_obalia">http:\/\/www.obalia.fr\/</string>
+
+    <!-- Cieléo -->
+    <string name="name_cieleo">Cieléo</string>
+    <string name="desc_cieleo">Rue Ramond - 65120 BAREGES</string>
+    <string name="url_cieleo">http:\/\/thermes-bareges.com\/</string>
+
+    <!-- Nature -->
+    <!-- Cirque of Barroude -->
+    <string name="name_barroude">Cirque and lake of Barroude</string>
+    <string name="desc_barroude">65170 ARAGNOUET</string>
+    <string name="geo_barroude">geo:42.731153,0.1427798?z=15</string>
+
+    <!-- Rocks of Sidobre -->
+    <string name="name_sidobre">Rocks of Sidobre</string>
+    <string name="desc_sidobre">81210 LACROUZETTE</string>
+    <string name="geo_sidobre">geo:43.6339847,2.4066803?z=15</string>
+
+    <!-- Abbyss of Padirac -->
+    <string name="name_padirac">Abbyss of Padirac</string>
+    <string name="desc_padirac">46500 PADIRAC</string>
+    <string name="geo_padirac">geo:44.8540666,1.7429296?z=15</string>
+
+    <!-- Cave of Niaux -->
+    <string name="name_niaux">Cave of Niaux</string>
+    <string name="desc_niaux">09400 NIAUX</string>
+    <string name="geo_niaux">geo:42.817764,1.5918153?z=15</string>
+
+    <!-- Cave of Pech Merle -->
+    <string name="name_pech">Cave of Pech Merle</string>
+    <string name="desc_pech">46330 CABRERETS</string>
+    <string name="geo_pech">geo:44.506685,1.6457484?z=15</string>
+
+    <!-- Peak of midi -->
+    <string name="name_midi">Peak of midi</string>
+    <string name="desc_midi">65120 Bagnères-de-Bigorre</string>
+    <string name="geo_midi">geo:42.9368725,0.1389035?z=15</string>
+
+</resources>
