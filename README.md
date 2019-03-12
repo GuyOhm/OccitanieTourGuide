@@ -2,6 +2,8 @@
 
 This app shows lists of beautiful sites to visit if you ever come to Occitanie area, South of France.
 
+![occitanietourguide](https://user-images.githubusercontent.com/23559053/54205007-c1b38000-44d5-11e9-8f0a-98164b7fd640.png)
+
 ## Description
 
 Four different types of site are presented for each list:
